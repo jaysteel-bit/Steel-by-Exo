@@ -1,2 +1,2 @@
 # Steel-by-Exo
-Steel Card (NFC)
+Steel Card (NFC) - A2P
